@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    font-family:'Helvetica', 'Sans-Serif';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     width: 70%;
 }
 
@@ -39,7 +39,7 @@ a:active {
 
 h1 {
     font-size: 3em;
-    font-family:'Arial';
+    font-family:'Helvetica';
 }
 
 p {
